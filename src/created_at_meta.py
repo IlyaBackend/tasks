@@ -3,7 +3,7 @@ from datetime import datetime
 
 class CreatedAtMeta(type):
     """
-    Мета класс для добавления к любоу наследнику
+    Метакласс для добавления к любоу наследнику
     поля created_at с текущей датой и временем.
     """
 
