@@ -1,5 +1,5 @@
-import unittest.mock
 from functools import lru_cache
+import unittest.mock
 
 
 @lru_cache
